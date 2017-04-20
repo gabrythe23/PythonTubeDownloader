@@ -1,7 +1,7 @@
 # PythonTubeDownloader
 Small python script to download youtube videos/playlists.
 
-#How does it work?
+# How does it work?
 Simply run it with python "python Main.py" (Tested on Ubuntu 16.04)
 
 Enter your requested YouTube video/playlist
